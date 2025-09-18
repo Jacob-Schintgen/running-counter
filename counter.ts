@@ -65,7 +65,7 @@ const counter = new Counter();
 // start the counter
 counter.start();
 
-// make it stop after 10 seconds
+// make it stop after 30 seconds
 setTimeout(() => {
     counter.stop();
 }, 30000);

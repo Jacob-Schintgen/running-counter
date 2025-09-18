@@ -65,7 +65,7 @@ initializeCounter();
 // Start the counter
 startCounter();
 
-// Make it stop after 30 seconds
+// Make it stop after 5 seconds
 setTimeout(() => {
     stopCounter();
 }, 5000);
